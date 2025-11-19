@@ -1,0 +1,7 @@
+export default function SkillAnalyzer() {
+  return (
+    <div className="min-h-screen flex items-center justify-center">
+      <h1 className="text-2xl font-bold">Skill Analyzer (Placeholder)</h1>
+    </div>
+  );
+}
